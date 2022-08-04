@@ -24,8 +24,8 @@ high = False
 price = pyupbit.get_current_price("KRW-ETC")
 
 #객체 생성 #로그인
-access = 'Ku2ltFhSY6xao3lJbTDf9ne3knIwlVVcjFYiUOFA'
-secret = 'xqxXG5bTzMJgVzm8hORQQeqwwQME0yZ9lVqCOMzI'
+access = 'key'
+secret = 'key'
 upbit = pyupbit.Upbit(access, secret)
 
 # RSI갱신
